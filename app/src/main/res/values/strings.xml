@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">No Spam</string>
+    <string name="title_activity_add_spam_sender">AddSpamSender</string>
+</resources>
